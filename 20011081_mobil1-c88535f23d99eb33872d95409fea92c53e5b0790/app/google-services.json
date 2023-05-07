@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "535733765410",
+    "firebase_url": "https://grad-563b8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "grad-563b8",
+    "storage_bucket": "grad-563b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535733765410:android:327289c6ad7c212daa917b",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535733765410-36f002opao0eods1e1gloll9ohcu58v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmtcFNfFqwZ5Mh1wlfOwAD4QxM5PmB1HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535733765410-36f002opao0eods1e1gloll9ohcu58v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
